@@ -7,3 +7,25 @@
 A condescending example...But let's be frank. Most technical people don't know the operations inside the business, even though all the software touches every business activity and the granular tasks they come with.
 
 This project (which, I hope, will be extended and overhauled throughout my career with new versions..) will be my crude attempt of learning of how a business operation runs and--most imporantly--what all this software and infrastructure means in the end and why it's important to the entire business structure.
+
+### Live Notes
+
+- See [Live Notes](github.com/RiseAgainst9192/Live_Notes/). This is my thought process as a journey on this quest.
+
+### Learning Goals (chronological order)
+
+1. UML and Database Schema Design
+   - :: Tutorials (hopefully) will have lots of realistic worldly examples for data. Which will help further have a better idea of this business's internal functions. Also, understanding data itself is paramount to understanding Information Systems.
+2. idk..will find out soon.
+
+### LOB software this will (hopefully) contain
+
+1. MS Exchange Server
+2. MS SQL Server (or a better SQL DBMS alternative..)
+3. [ticketing] ZOHO Help Desk Software
+4. [CRM] Salesforce
+5. [E-Mail Automation] MailChimp
+6. [ERP] Odoo (open source)(..or maybe SAS)
+7. [Accounting] QuickBooks
+8. [E-Commerce/Customer Portal Website] -- In-House (yes, I wanna program dis thang 😎 ).
+9. idk...
