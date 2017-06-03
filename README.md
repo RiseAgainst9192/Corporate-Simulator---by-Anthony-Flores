@@ -1,6 +1,6 @@
 # Preface
 
-### Why I'm doing This
+### Why I'm doing this
 
 **Story:** As sysadmin and devs, we tend pride ourselves in the vast arsenel of scripts, data structures, and knowledge of the many frameworks and software we're familiar with. Knowledge is our bread and butter, and people pay us for our technical expertise and practice. We receive a phone call from our CTO about the finance department's unhappy  implementation of the Exchange server. Then we scuff it, and justify our actions by saying "Well clearly the user didn't know they want"--when the harsh reality is that *we* didn't know what the user wanted.
 
